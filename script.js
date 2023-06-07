@@ -25,7 +25,7 @@ var rightPressed = false; // Flag for right arrow key pressed
 var leftPressed = false; // Flag for left arrow key pressed
 
 // Set up brick properties
-var brickRowCount = 6; // Number of rows of bricks
+var brickRowCount = 5; // Number of rows of bricks
 var brickColumnCount = 8; // Number of columns of bricks
 var brickWidth = 75; // Width of each brick
 var brickHeight = 20; // Height of each brick
